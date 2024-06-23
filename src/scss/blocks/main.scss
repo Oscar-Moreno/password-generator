@@ -1,1 +1,40 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    flex-direction: column;
+}
+.password{
+    
+}
+#password{
+background-color: purple;
+border: none;
+border-radius: 20px;
+padding: 20px;
+color: white;
+width: 400px;
+text-align: center;
+}
+.legth{
+color: white;
+}
+.range{
+    color: white;
+    padding: 20px;
+    background-color: purple;
+    border-radius: 20px;
+    width: 400px;
+    text-align: center;
+}
 
+.btn{
+   width: 400px;
+   height: 50px;
+   background-color: purple;
+   margin: 30px;
+   border: none;
+   border-radius: 20px;
+   color: white;
+}
